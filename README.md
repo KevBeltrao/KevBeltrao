@@ -19,7 +19,7 @@
 
 <br />
 
-I started I've been ~~struggling~~ working with JavaScript since 2018, having started programming the year before (because I liked C language (a lot)) 💻. I'm very into music and here’s a [clip](https://www.youtube.com/watch?v=CfeOuyurJ_Q&t=907s) of me joining music and JavaScript.
+I've been ~~struggling~~ working with JavaScript since 2018, having started programming the year before (because I liked C language (a lot)) 💻. I'm very into music and here’s a [clip](https://www.youtube.com/watch?v=CfeOuyurJ_Q&t=907s) of me joining music and JavaScript.
 
 <br />
 
