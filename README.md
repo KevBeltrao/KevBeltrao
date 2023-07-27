@@ -19,7 +19,7 @@
 
 <br />
 
-Work with JavaScript since 2018! Started with C language 💻. Passionate about music and here’s a [clip](https://www.youtube.com/watch?v=CfeOuyurJ_Q&t=907s) of me joining music and JavaScript.
+Work with JavaScript since 2018! Started with C language 💻. Passionate about music, and here’s a [clip](https://www.youtube.com/watch?v=CfeOuyurJ_Q&t=907s) of me joining music and JavaScript.
 
 <br />
 
@@ -36,12 +36,13 @@ Work with JavaScript since 2018! Started with C language 💻. Passionate about 
 ## ☕️ A little more about me
 <img src="https://media2.giphy.com/media/687qS11pXwjCM/giphy.gif?cid=790b76116ff7844a65712dc06dff79c095eaeec8ae35d33a&rid=giphy.gif&ct=g" />
 
-I am a coffee person (not very judgmental, if you prefer tea it’s ok to be wrong).
-I make videos on Youtube (in Portuguese) to make programming more accessible and I'm currently located in [Recife (Brazil)](https://www.google.com/maps/place/Recife+-+PE/@-8.0446106,-34.9859733,12.16z/data=!4m5!3m4!1s0x7ab196f88c446e5:0x3c9ef52922447fd4!8m2!3d-8.0577401!4d-34.8829629) (no, this link's not showing my place's location, you might be a maniac).
+I love coffee, and I make videos on Youtube (in Portuguese) to make programming more accessible.
 
-I'm always down to learn new stuff, so feel free to approach me with any subject from technology and career to economy and culture.
+Currently located in [Recife (Brazil)](https://www.google.com/maps/place/Recife+-+PE/@-8.0446106,-34.9859733,12.16z/data=!4m5!3m4!1s0x7ab196f88c446e5:0x3c9ef52922447fd4!8m2!3d-8.0577401!4d-34.8829629).
 
-Even though I wouldn't call myself a gamer (haven't played much in the last years), the games I like the most are League of Legends and Counter Strike 🕹.
+I'm always down to learn new stuff, so feel free to approach me with any subject.
+
+Even though I wouldn't call myself a gamer (I haven't played much in the last few years), the games I like the most are League of Legends and Counter-Strike 🕹.
 
 <div style="display: flex; flex-wrap: wrap; grid-gap: 8px;">
   <img src="https://img.shields.io/badge/League_Of_Legends-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
