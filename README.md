@@ -56,4 +56,4 @@ Even though I wouldn't call myself a gamer (I haven't played much in the last fe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevBeltrao&layout=compact&theme=dracula)](https://github.com/KevBeltrao/github-readme-stats)
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevBeltrao&count_private=true&theme=dracula&custom_title=Kevin's%20Github%20Stats)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevBeltrao&count_private=true&theme=dracula&custom_title=Kevin's%20Github%20Stats&show_icons=true)
