@@ -23,7 +23,7 @@ Work with JavaScript since 2018! Started with C language 💻 and currently addi
 
 <br />
 
-## Ouch My Eyes
+## 👁️ Ouch My Eyes
 
 Are you using my theme extension? Have a try, it's free! Click [HERE](https://vscodethemes.com/e/kevinbeltrao.kevbeltrao-ouch-my-eyes/ouch-my-eyes-classic-blue?language=javascript).
 
