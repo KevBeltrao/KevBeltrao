@@ -49,6 +49,6 @@ Currently located in [Recife (Brazil)](https://www.google.com/maps/place/Recife+
 
 ## 🧐 Here are some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevBeltrao&layout=compact&theme=dracula)](https://github.com/KevBeltrao/github-readme-stats)
+[![Top Langs](https://github-readme-stats-roan-one-19.vercel.app/api/top-langs/?username=KevBeltrao&layout=compact&theme=dracula)](https://github.com/KevBeltrao/github-readme-stats)
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevBeltrao&count_private=true&theme=dracula&custom_title=Kevin's%20Github%20Stats&show_icons=true)
+![Kevin's GitHub stats](https://github-readme-stats-roan-one-19.vercel.app/api?username=KevBeltrao&count_private=true&theme=dracula&custom_title=Kevin%27s%20Github%20Stats&show_icons=tru)
