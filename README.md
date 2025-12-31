@@ -25,7 +25,7 @@ Work with JavaScript since 2018! Started with C language 💻 and currently addi
 
 ## 👁️ Ouch My Eyes
 
-Are you using my theme extension? Have a try, it's free! Click [HERE](https://vscodethemes.com/e/kevinbeltrao.kevbeltrao-ouch-my-eyes/ouch-my-eyes-classic-blue?language=javascript).
+Are you using my theme extension? Have a try, it's free! Click [HERE](https://www.vscodethemes.com/e/KevinBeltrao.kevbeltrao-ouch-my-eyes/ouch-my-eyes-classic-blue).
 
 <br />
 
